@@ -45,4 +45,5 @@ Elle permet de simuler une authentification utilisateur et l’affichage de tran
 flutter pub get
 flutter run
 
->>>>>>> 46a3ba285f0dea3e853c44939bc3c85a0473288a
+
+
